@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body style="background-image:url('https://cdn3.vectorstock.com/i/1000x1000/28/17/passengers-buying-tickets-at-bus-station-flat-vector-40002817.jpg');">
+
+<h2 style="color:green;">Bookings</h2>
+
+<ul>
+  <h3>Name of the customer</h3>
+  <h3>travelling place</h3>
+  <h3>phone number</h3>
+</ul>  
+
+<h2 style="color:red";>Details</h2>
+
+<ol>
+  <h3>Bus number</h3>
+  <h3>Arriving time</h3>
+  <h3>Reached time </h3>
+</ol> 
+
+<h1>HTML LINKS</h1>
+<a href="https://www.talentio.in/college-offerings/">click here</a>
+
+</body>
+</html>
